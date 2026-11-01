@@ -28,7 +28,6 @@ dist-ssr
 .nitro
 *.local
 .vercel
-.netlify
 
 # Wrangler / Cloudflare
 .wrangler/

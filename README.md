@@ -29,8 +29,9 @@ The development server runs at [http://localhost:5175](http://localhost:5175).
 
 ## Deployment
 
-The project is configured for Netlify. Pushes to the connected `main` branch
-automatically build and publish the site using `netlify.toml`.
+The project is configured for Vercel. The Nitro Vite plugin builds the
+TanStack Start server runtime for Vercel deployments. Pushes to the connected
+`main` branch trigger a production deployment.
 
 ## Useful commands
 
